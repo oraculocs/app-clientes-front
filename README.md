@@ -1,27 +1,57 @@
-# ClientesApp
+# Angular 9 + Spring Boot 2.2: Fullstack Completo e Atualizado - Udemy - Projeto App-Clientes
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/oraculocs/app-clientes-front/blob/master/LICENSE) 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
+# Sobre o projeto
 
-## Development server
+Projeto somente local no momento.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Aplicação Web completa (CREATE, READ, UPDATE e DELETE) de um Sistema de Cadastramento de Clientes e Serviços Prestados.
 
-## Code scaffolding
+VISÃO TÉCNICA - BACK END:
+API Rest usando Java com Spring Boot 2 e banco de dados H2. JPA com Hibernate uso adequado do protocolo HTTP no padrão REST, OAuth2 e Token JWT com Spring Security
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Versão: Spring Boot 2
 
-## Build
+VISÃO TÉCNICA - FRONT END:
+Front end utilizando Angular 9. arquitetura MVC do Angular.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Versão: Angular 9
 
-## Running unit tests
+## Layout Web
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Web 1](https://github.com/oraculocs/assets/blob/master/app-clientes/8.JPG)
 
-## Running end-to-end tests
+![Web 2](https://github.com/oraculocs/assets/blob/master/app-clientes/111.JPG)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+![Web 3](https://github.com/oraculocs/assets/blob/master/app-clientes/22.JPG)
 
-## Further help
+![Web 4](https://github.com/oraculocs/assets/blob/master/app-clientes/3.JPG)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Web 5](https://github.com/oraculocs/assets/blob/master/app-clientes/44.JPG)
+
+![Web 6](https://github.com/oraculocs/assets/blob/master/app-clientes/55.JPG)
+
+![Web 7](https://github.com/oraculocs/assets/blob/master/app-clientes/6.JPG)
+
+![Web 8](https://github.com/oraculocs/assets/blob/master/app-clientes/7..JPG)
+
+
+# Tecnologias utilizadas
+## Back end
+- Java 8
+- Spring Boot
+- JPA / Hibernate
+- Maven
+- Protocolo HTTP no padrão REST
+## Front end
+- HTML / CSS / JS / TypeScript
+- Angular 9
+
+
+# Autor
+
+Carlos Augusto de Oliveira
+- https://www.linkedin.com/in/carlos-augusto-47a1764a/
+- https://oraculocs.github.io
+
+

@@ -17,6 +17,12 @@ Front end utilizando Angular 9. arquitetura MVC do Angular.
 
 Versão: Angular 9
 
+<br/>
+<h2 align="center"> Funcionamento do Sistema </h2>
+
+<p align="center">
+  <img src="https://github.com/oraculocs/assets/blob/master/app-clientes/Clientesapp.gif" />
+
 ## Layout Web
 
 ![Web 1](https://github.com/oraculocs/assets/blob/master/app-clientes/8.JPG)
